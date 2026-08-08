@@ -1,4 +1,4 @@
-# 💌 Surat Untukmu (A Letter for You)
+# 💌 A GIFT (A Letter for You)
 
 This project is a simple, yet meaningful web-based romantic surprise. I created this website specifically to be given as a digital gift to someone special.
 
@@ -8,6 +8,6 @@ This project is a simple, yet meaningful web-based romantic surprise. I created 
 The main purpose of this repository is to serve as a heartfelt surprise for a loved one. 
 
 ---
-*Created with ❤️ by flymuel*
+*Created with ❤️ by Pranjal*
 ---
-*https://flymuel.github.io/surat-untukmu/*
+*hhhhhttps://flymuel.github.io/surat-untukmu/*
