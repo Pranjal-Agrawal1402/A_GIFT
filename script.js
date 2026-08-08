@@ -190,7 +190,7 @@ function executeOpenGift() {
     if(isGiftOpened) return;
     isGiftOpened = true;
 
-    changeSong('assets/lagu/song1.mp3', 'Chaand Mera Dil', 'Faheem Abdullah', 'assets/cover/cover1.jpg');
+    changeSong('assets/lagu/song1.mp3', 'Chaand Mera Dil', 'Faheem Abdullah', 'assets/cover/Cover1.jpg');
 
     const giftIcon = document.getElementById('gift-icon');
     const tapText = document.getElementById('tap-text');
