@@ -1,4 +1,4 @@
-# 💌 Surat Untukmu (A Letter for You)
+# 💌 Surat Untukmu (A Gift for You)
 
 This project is a simple, yet meaningful web-based romantic surprise. I created this website specifically to be given as a digital gift to someone special.
 
